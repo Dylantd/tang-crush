@@ -1,9 +1,6 @@
 const CONFIG = {
     introTitle: 'Tố Như à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao chị cứ đi nhầm đường
-    Lạc vào tim em lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Chị có biết là bao đêm tương tư về chị rồi không?`,
     btnIntro: 'hihi',
     title: ' Em muốn nói là em thích chị lắm lắm luôn  ',
     desc: 'Chị có thích em không? ',
